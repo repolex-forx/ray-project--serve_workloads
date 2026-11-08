@@ -1,0 +1,11 @@
+{
+  "org": "ray-project",
+  "repo": "serve_workloads",
+  "versions": [
+    {
+      "commit": "9594a6db977c9009e6adf6f06ae284cfa03e04ea",
+      "tag": "",
+      "parsed_at": "2026-11-08T06:37:49.425512+00:00"
+    }
+  ]
+}
